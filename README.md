@@ -1,6 +1,6 @@
 # TypeScript
 
-![Descrição da Imagem](imagens/typescript.jpg)
+![Descrição da Imagem](imagens/typescript.png)
 
 ## Sumário
 
