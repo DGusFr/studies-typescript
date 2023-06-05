@@ -25,6 +25,10 @@ Sass é o pré-processador de CSS:
 
 → npm install --save-dev sass
 
+plugin typescript-plugin-css-modules:
+
+→ npm install -D typescript-plugin-css-modules
+
 ## Conclusão
 
 
