@@ -15,7 +15,7 @@ Este projeto tem como a finalidade a implementação de uma lista de estudos, on
 
 ### Funcionalidades
 
-Possuiu funcionalidades do React.js aplicados ao Typescript.
+Apresenta funcionalidades do React.js aplicados ao Typescript.
 
 ## Instalações
 
