@@ -19,9 +19,9 @@ function Lista() {
       <ul>
         {tarefas.map((item, index) => (
           <Item
-          key={index}
-          {...item}
-        />
+            key={index}
+            {...item}
+          />
         ))}
       </ul>
     </aside>
