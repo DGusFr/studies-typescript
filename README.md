@@ -21,7 +21,9 @@ Possuiu funcionalidades do React.js aplicados ao Typescript.
 
 → npx create-react-app --template typescript studies-typescript --use-npm
 
-→ 
+Sass é o pré-processador de CSS:
+
+→ npm install --save-dev sass
 
 ## Conclusão
 
