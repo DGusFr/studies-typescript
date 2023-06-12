@@ -31,7 +31,7 @@ plugin typescript-plugin-css-modules:
 
 ## Conclusão
 
-Caso de o erro: "error:0308010C:digital envelope routines::unsupported"
+No caso do erro: "error:0308010C:digital envelope routines::unsupported"
 
 No seu package.json mudar essa linha:
 
