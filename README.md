@@ -31,7 +31,15 @@ plugin typescript-plugin-css-modules:
 
 ## Conclusão
 
-Caso 
+Caso de o erro: "error:0308010C:digital envelope routines::unsupported"
+
+No seu package.json mudar essa linha:
+
+"start": "react-scripts start"
+
+para:
+
+"start": "react-scripts --openssl-legacy-provider start"
 
 
 
